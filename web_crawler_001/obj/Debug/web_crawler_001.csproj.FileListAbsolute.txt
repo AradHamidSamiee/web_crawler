@@ -1,0 +1,14 @@
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\bin\Debug\web_crawler_001.exe.config
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\bin\Debug\web_crawler_001.exe
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\bin\Debug\web_crawler_001.pdb
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\obj\Debug\web_crawler_001.Form1.resources
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\obj\Debug\web_crawler_001.Properties.Resources.resources
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\obj\Debug\web_crawler_001.csproj.GenerateResource.Cache
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\obj\Debug\web_crawler_001.exe
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\obj\Debug\web_crawler_001.pdb
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\bin\Debug\WebDriver.dll
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\bin\Debug\WebDriver.Support.dll
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\bin\Debug\WebDriver.xml
+C:\Users\Vihuda\Desktop\مهندسی اینترنت\week5\my crawler\web_crawler_001\web_crawler_001\bin\Debug\WebDriver.Support.xml
